@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn==1.9.0
+Jinja2
+ipykernel
